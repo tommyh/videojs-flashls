@@ -7,9 +7,10 @@ It has support for videojs, but it takes some effort to wire it up.  This plugin
 
 ## Installation
 
-1. Download the fork of video-js.swf created for the flashls project: [http://www.flashls.org/videojs/video-js.swf]
+1. Download the fork of video-js.swf created for flashls: [https://github.com/mangui/video-js-swf/blob/master/dist/video-js.swf]
 
-  Why? For flashls to work with videojs, [mangui](https://github.com/mangui) has made a fork of the [video-js.swf](https://github.com/mangui/video-js-swf) which adds in HLS support.
+  Why? For flashls to work with videojs, [mangui](https://github.com/mangui) has made a fork of the
+  [video-js.swf](https://github.com/mangui/video-js-swf) which adds in HLS support.
 
   To see the flashls/videojs demo, go [here](http://www.flashls.org/videojs/flash_demo.html)
 
