@@ -17,9 +17,6 @@
     //  more info can be found here: https://github.com/mangui/flashls/issues/351
     videojs.options.flash.flashVars.hls_capleveltostage = false;
 
-    // we should start with the highest quality level
-    videojs.options.flash.flashVars.hls_startfromlevel = 1;
-
     // with v0.4.1.1 the seeking would jump pretty far back, so switching the mode to be more accurate versus using
     //   the closest keyframe
     videojs.options.flash.flashVars.hls_seekmode = "ACCURATE";
