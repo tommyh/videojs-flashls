@@ -39,6 +39,7 @@ videojs("video_id", {}).ready(function(){
 
 ## TODO
 
+* Allow the user to pass in/override "hls_*" configuration options
 * Commonjs/browserify support
 * Automated tests: unit tests (karma + mocha) + integration (sauce + selenium + different versions of videojs)
 * npm and bower support
